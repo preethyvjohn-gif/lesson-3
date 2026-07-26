@@ -1,0 +1,6 @@
+name= input("enter your name")
+favourite_sport= input("what is your favourite sport")
+age= int(input("what is your age"))
+print("name: ",name,type(name))
+print("favourite_sport",favourite_sport,type(favourite_sport))
+print("age: ",age,type(age))
